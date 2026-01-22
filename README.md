@@ -1,12 +1,12 @@
-\# Customer Churn Analysis - Python + Excel
+# Customer Churn Analysis - Python + Excel
 
 
 
-\## Project Description
+## Project Description
 
-This project showcases a \*\*complete data analytics workflow\*\* using \*\*Python and Excel\*\*.
+This project showcases a **complete data analytics workflow** using **Python and Excel**.
 
-Raw data was cleaned, analyzed, and processed using Python, then exported to Excel where an \*\*interactive dashboard\*\* was created to visualize insights.
+Raw data was cleaned, analyzed, and processed using Python, then exported to Excel where an **interactive dashboard** was created to visualize insights.
 
 
 
@@ -26,15 +26,15 @@ The workflow covers:
 
 
 
-\## Tools \& Technologies
+## Tools & Technologies
 
-\- Python
+- Python
 
   - Pandas
 
   - NumPy
 
-\- Excel
+- Excel
 
   - Pivot Tables
 
@@ -42,43 +42,43 @@ The workflow covers:
 
   - Dashboard \& KPIs
 
-\- Jupyter Notebook / Python Script
+- Jupyter Notebook / Python Script
 
 
 
-\## Data Cleaning (Python)
+## Data Cleaning (Python)
 
 The following steps were performed using Python:
 
 
 
-\- Removed duplicate records
+- Removed duplicate records
 
-\- Handled missing values
+- Handled missing values
 
-\- Standardized column names
+- Standardized column names
 
-\- Fixed incorrect data types
+- Fixed incorrect data types
 
-\- Prepared final dataset for reporting
+- Prepared final dataset for reporting
 
 
 
-\## Excel Dashboard
+## Excel Dashboard
 
 The Excel dashboard includes:
 
 
 
-\- Key Performance Indicators (KPIs)
+- Key Performance Indicators (KPIs)
 
-\- Charts and visual summaries
+- Charts and visual summaries
 
-\- Filters and slicers
+- Filters and slicers
 
-\- Trend analysis for decision-making
+- Trend analysis for decision-making
 
 
 
-\### Dashboard Preview
+### Dashboard Preview
 
