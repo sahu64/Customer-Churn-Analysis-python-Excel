@@ -81,4 +81,5 @@ The Excel dashboard includes:
 
 
 ### Dashboard Preview
+![image alt](https://github.com/sahu64/Customer-Churn-Analysis-python-Excel/blob/3532842eb9e96debfcfac43f4cf5bb40624041fa/3.%20Dashboard/Screenshot%202026-01-22%20222841.png)
 
